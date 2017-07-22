@@ -1,6 +1,6 @@
 {
   "name": "uvt",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A npm package use to manager CocoaPods",
   "main": "index.js",
   "scripts": {
