@@ -1,0 +1,27 @@
+{
+  "name": "SAMPLE_LIBRARY_PROJECT",
+  "version": "0.1.0",
+  "summary": "SAMPLE_LIBRARY_PROJECT.",
+  "description": "SAMPLE_LIBRARY_PROJECT is a module for UVT.",
+  "homepage": "https://gitlab.com/viktyz/SAMPLE_LIBRARY_PROJECT",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "viktyz": "66745628@qq.com"
+  },
+  "source": {
+    "git": "https://gitlab.com/viktyz/SAMPLE_LIBRARY_PROJECT.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "SAMPLE_LIBRARY_PROJECT/Classes/**/*",
+  "public_header_files": "SAMPLE_LIBRARY_PROJECT/Classes/**/*.h",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ]
+}

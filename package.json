@@ -1,0 +1,33 @@
+{
+  "name": "uvt",
+  "version": "0.0.1",
+  "description": "A npm package use to manager CocoaPods",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viktyz/UVT.git"
+  },
+  "keywords": [
+    "pod",
+    "cocoapods",
+    "uvt",
+    "ios"
+  ],
+  "bin": {
+    "uvt": "./bin/uvt"
+  },
+  "author": "viktyz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/viktyz/UVT/issues"
+  },
+  "dependencies": {
+    "commander": "^2.9.0",
+    "shelljs":"^0.7.7",
+    "chalk": "^1.1.3"
+  },
+  "homepage": "https://github.com/viktyz/UVT#readme"
+}

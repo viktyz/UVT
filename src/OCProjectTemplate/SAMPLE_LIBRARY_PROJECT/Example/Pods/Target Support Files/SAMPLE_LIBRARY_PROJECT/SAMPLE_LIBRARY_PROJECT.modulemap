@@ -1,0 +1,6 @@
+framework module SAMPLE_LIBRARY_PROJECT {
+  umbrella header "SAMPLE_LIBRARY_PROJECT-umbrella.h"
+
+  export *
+  module * { export * }
+}
